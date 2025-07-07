@@ -5,6 +5,9 @@ This project analyzes the daily stock performance of 6 NIFTY50 banking companies
 ## 🧾 Objective
 To compare banks on key return and risk metrics and create a dashboard to visually present their performance.
 
+## 🛠 Tools Used
+- Microsoft Excel (Power Functions, Conditional Formatting, Charting, Dashboarding)
+
 ## 🏦 Banks Analyzed
 - HDFC Bank
 - ICICI Bank
